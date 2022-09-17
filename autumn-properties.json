@@ -1,0 +1,4 @@
+{
+    "СтрокаСоединения": "FullUri=file::memory:?cache=shared",
+    "ТипКоннектора": "КоннекторSQLite"
+}
